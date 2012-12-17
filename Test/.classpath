@@ -2,5 +2,20 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/ant.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.7-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.7-tests.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/fastjson-1.1.24.jar"/>
+	<classpathentry kind="lib" path="libs/fluent-hc-4.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2.4-jdk15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
